@@ -1,0 +1,13 @@
+body{
+    margin:0
+}
+#clickbox{
+    margin:10px;
+    height: 400px;
+    width: 400px;
+    background-color: red;
+    cursor: crosshair;
+}
+.textbox{
+    margin:10px;
+}
